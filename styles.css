@@ -1,16 +1,21 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
 h1 {
-    color: rgb(8, 140, 180);
-    font-size: 20px;
-  }
+  color: rgb(8, 140, 180);
+  font-size: 20px;
+}
 h2 {
-    color:rgb(44, 158, 120);
-    font-size: 18px;
-}  
+  color: rgb(44, 158, 120);
+  font-size: 18px;
+}
 ul {
-    color:rgb(87, 9, 160);
-    font-size: 12px;
+  color: rgb(87, 9, 160);
+  font-size: 12px;
 }
 h3 {
-    color:cadetblue;
-    font-size: 15px;
+  color: cadetblue;
+  font-size: 15px;
 }
